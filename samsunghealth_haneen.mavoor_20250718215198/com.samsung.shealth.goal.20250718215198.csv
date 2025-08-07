@@ -1,0 +1,4 @@
+﻿com.samsung.shealth.goal,6302031,2
+start_time,float_value,update_time,create_time,value,time_offset,deviceuuid,pkg_name,datauuid,goal_type
+2025-02-01 14:46:31.765,0.0,2025-02-01 14:46:31.779,2025-02-01 14:46:31.779,0,UTC+0530,EmOHuC/o0o,com.sec.android.app.shealth,0aaaf19d-da8e-44b1-815a-5576dd612985,400012,
+2025-02-01 14:46:31.763,0.0,2025-02-01 14:46:31.788,2025-02-01 14:46:31.788,0,UTC+0530,EmOHuC/o0o,com.sec.android.app.shealth,4c5655bd-c343-4dcc-882f-0ed7457116df,400013,

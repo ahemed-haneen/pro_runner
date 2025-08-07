@@ -1,0 +1,4 @@
+﻿com.samsung.shealth.exercise.program,6302031,3
+duration,planned_end_time,start_time,custom,completion_status,update_time,create_time,distance,schedule_count,time_offset,deviceuuid,pkg_name,end_time,datauuid,info_id,is_visible
+,2022-09-18 22:30:00.000,2022-07-11 22:30:00.000,,-1,2022-07-13 18:22:58.777,2022-07-12 17:45:19.755,,30,UTC+0530,EmOHuC/o0o,com.sec.android.app.shealth,2022-07-13 18:22:58.625,1c191b9e-9490-4e67-943a-420b0735883f,program.sport_couch_to_5k_pa_v010,1,
+,2025-03-28 22:30:00.000,2025-01-19 22:30:00.000,,1,2025-04-23 06:43:20.287,2025-01-14 03:46:44.157,,30,UTC+0530,EmOHuC/o0o,com.sec.android.app.shealth,2025-03-28 22:30:00.000,670a87ad-2b43-482f-8538-c7d9f0d2eb16,program.sport_couch_to_5k_ex_v010,1,

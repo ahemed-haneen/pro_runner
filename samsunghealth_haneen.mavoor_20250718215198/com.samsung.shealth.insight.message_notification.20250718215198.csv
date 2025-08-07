@@ -1,0 +1,4 @@
+﻿com.samsung.shealth.insight.message_notification,6302031,1
+message_id,device_type,status,update_time,create_time,time_offset,deviceuuid,pkg_name,issue_time,datauuid
+Sleep_Weekly_2_2_new,1,1,2024-07-25 14:37:55.282,2024-07-25 14:37:55.282,UTC+0530,EmOHuC/o0o,com.sec.android.app.shealth,,85484be6-d25b-4223-9684-89e5fb26bd37,
+Sleep_Weekly_2_1_new,1,1,2024-09-16 11:40:14.233,2024-09-16 11:40:14.233,UTC+0530,EmOHuC/o0o,com.sec.android.app.shealth,,146eaf72-65cc-47f1-a1db-a6244f8f4f2c,

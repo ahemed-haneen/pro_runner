@@ -1,0 +1,6 @@
+﻿com.samsung.shealth.sleep_data,6302031,5
+create_sh_ver,start_time,modify_sh_ver,update_time,create_time,sleep_uuid,sleep_status,time_offset,deviceuuid,comment,pkg_name,json_version,datauuid
+,2021-12-28 23:03:00.000,,2021-12-28 23:48:32.809,2021-12-28 23:48:32.809,0922549f-8341-4a66-a6c7-bbcc61baccc3,f8124f30-716e-4b50-be68-62da352b344d.sleep_status.json,UTC+0530,Rju+KmA1Z1,,com.sec.android.app.shealth,1,f8124f30-716e-4b50-be68-62da352b344d,
+,2022-01-06 04:00:00.000,,2022-01-06 05:05:34.370,2022-01-06 05:05:34.370,f0340f31-a8ec-4434-bf71-a95548cd6d50,003b75cb-d402-4ea4-a721-d93e2377f15f.sleep_status.json,UTC+0530,Rju+KmA1Z1,,com.sec.android.app.shealth,1,003b75cb-d402-4ea4-a721-d93e2377f15f,
+,2022-10-14 22:42:00.000,,2022-10-14 23:55:42.158,2022-10-14 23:55:42.158,bd748958-b844-43b5-9540-cfe5789ad2a1,fd814944-d92c-47e1-a63a-65ab530a3346.sleep_status.json,UTC+0530,EmOHuC/o0o,,com.sec.android.app.shealth,1,fd814944-d92c-47e1-a63a-65ab530a3346,
+,2022-12-18 12:21:00.000,,2022-12-18 14:01:52.324,2022-12-18 14:01:52.324,76db604a-af7f-43ba-9864-ee4841b3d2ac,83463ee2-9f11-4b29-8844-36d2695c229d.sleep_status.json,UTC+0530,EmOHuC/o0o,,com.sec.android.app.shealth,1,83463ee2-9f11-4b29-8844-36d2695c229d,
